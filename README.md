@@ -1,10 +1,10 @@
 # FoodHut
 
-PROBLEM STATEMENT:
+# PROBLEM STATEMENT:
 
 FOOD MANAGEMENT-Preventing wasteage by sales prediction.
 
-Key features of your solution: 
+# Key features of your solution: 
 
 Our website provides the following key features-
 
