@@ -2,7 +2,7 @@
 
 PROBLEM STATEMENT:
 
-FOOD MANAGEMENT- Preventing wasteage by sales prediction.
+FOOD MANAGEMENT-Preventing wasteage by sales prediction.
 
 Key features of your solution: 
 
