@@ -1,2 +1,11 @@
 # FoodHut
-It is a centralised network that connects the government, non-government organisations, private contributors, volunteers, and those in need across India to facilitate the distribution of food and humanitarian relief.
+FOOD MANAGEMENT- Preventing wasteage by sales prediction.
+Key features of your solution
+1. The farmers/ wholesalers to directly sell unused raw food items to nearby retailers.
+2. The restaurant owners to donate fresh prepared food to NGO’s, orphans and old age homes around the locality.
+3. The common people to dump the spoiled food to the dumping compost pits near them.
+4. Moreover, even the grocery shops can donate the bakery items close to expiry date to NGO’s for same day consumption..
+
+The GitHub repo contains the entire source code of the project. 
+
+Demo video:
