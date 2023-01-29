@@ -1,6 +1,13 @@
 # FoodHut
+
+PROBLEM STATEMENT:
+
 FOOD MANAGEMENT- Preventing wasteage by sales prediction.
-Key features of your solution
+
+Key features of your solution: 
+
+Our website provides the following key features-
+
 1. The farmers/ wholesalers to directly sell unused raw food items to nearby retailers.
 2. The restaurant owners to donate fresh prepared food to NGO’s, orphans and old age homes around the locality.
 3. The common people to dump the spoiled food to the dumping compost pits near them.
